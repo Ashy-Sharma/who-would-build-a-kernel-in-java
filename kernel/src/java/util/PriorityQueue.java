@@ -206,4 +206,3 @@ public class PriorityQueue<E> extends AbstractCollection<E> implements Queue<E> 
         elements[index] = value;
     }
 }
-
